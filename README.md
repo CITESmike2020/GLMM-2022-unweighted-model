@@ -66,7 +66,8 @@ posterior samples from the continental or subregional fits. You likely will NOT 
 #### *2022-05-25*
 
 *README.md* file updated to include additional introductory text, and hyperlink to the MIKE report.
-R code in the slope analysis report on diffrent time period for the contiental and regional anaysis
+
+Slope analysis now uses updated code to cover all of the analyses in MIKE report.
 
 
 #        
