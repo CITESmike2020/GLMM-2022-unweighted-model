@@ -51,7 +51,7 @@ The following steps should be followed to update the estimates when a new set of
 available. The steps for the Africa reports are given below; the steps for Asia are similar
 
 - Update the files in the *Data* directory.
-- Update the *read.africa.R* file in the *Code* directory to point to the new file names
+- Update the *read.africa.R* file in the *Code* directory to point to the new file names.
 - Open and knit the *Africa.technical.update-2021.Rmd* documents to create the html/pdf documents.
 This will take two runs, one for the *html* file and one for the *pdf* file.
 - Put the date of creation in the front of the created html/pdf files and move to the *ReportAndEstimates* directory.
@@ -63,9 +63,10 @@ posterior samples from the continental or subregional fits. You likely will NOT 
 
 # Change Log
 
-#### *2021-11-01*
+#### *2022-05-25*
 
 *README.md* file updated to include additional introductory text, and hyperlink to the MIKE report.
+R code in the slope analysis report on diffrent time period for the contiental and regional anaysis
 
 
 #        
