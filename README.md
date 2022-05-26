@@ -69,7 +69,6 @@ posterior samples from the continental or subregional fits. You likely will NOT 
 
 *README.md* file updated to include additional introductory text, and hyperlink to the MIKE report.
 
-Slope analysis code is extended to cover all of the analyses in MIKE report.
 The slope analysis code has been expanded to include all the trend analysis reported in the MIKE report.
 #        
 <img src="images/EUFlagwithText2.png" width="20%" height="20%" style="display: block; margin: auto auto auto 0;" align="center"/>
