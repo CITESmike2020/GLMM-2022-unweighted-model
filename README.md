@@ -30,7 +30,7 @@ where the subscripts *sy*  refer to site and year respectively. PIKE is an index
 
 This GitHub repository contains code and reports on using a Generalized Linear Mixed Model (GLMM-unweighted) to estimate yearly-trends in PIKE.
 
-# Structure of this repository
+# Structure of this repository (UNDER CONSTRUCTION)
 You will have to insert your google key in the *register_google_key.R* file so that
 the programs can download maps of Africa and Asia. <br> See ?register_google after loading the ggmap package.
 
