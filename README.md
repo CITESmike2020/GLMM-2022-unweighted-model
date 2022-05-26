@@ -11,7 +11,9 @@ This repository contains R script used to analyse of data from the Monitoring th
 
 The analytical approach documented <a href="https://github.com/CITESmike2020/MIKE-GLMM">here</a> has been recommended by the MIKE-ETIS Technical Advisory Group (TAG) after the review of the MIKE analytical methodology initiated by the CITES Secretariat in collaboration with the MIKE-ETIS TAG. Various methodologies / models were considered and the use of a Bayesian generalised linear mixed model (GLMM) approach, with model results unweighted by local elephant population estimates were recommended by the TAG in <a href="https://cites.org/sites/default/files/MIKE/E-Technical_Report_Africa_summary.pdf"> 2020</a> to replace the previous modelling approach that had been used in prior reports considered by the meetings of the Conference of Parties to CITES and CITES Standing Committee. The Bayesian unweighted GLMM  approach was used to report PIKE trends in the MIKE report: <a href="https://cites.org/sites/default/files/MIKE/E-PIKE_Trend_Analysis_Aug2021.pdf"> Monitoring the Illegal Killing of Elephants (MIKE) PIKE trend analysis 2003-2020</a> , released by the CITES Secretariat in November 2021. <a href="https://github.com/CITESmike2020/GLMM-2021-unweighted-model"> The code used in the analysis is located here. </a>  
 
-Here the Bayesian GLMM (unweighted)  approach is used to report PIKE trends in the MIKE report: <i>Monitoring the Illegal Killing of Elephants (MIKE) PIKE trend analysis 2003-2021</i>, released by the CITES Secretariat in June 2022.  <a href="https://cites.org/sites/default/files/MIKE/E-PIKE_Trend_Analysis_Aug2021x.pdf">Click here to see the report.</a> 
+The Bayesian GLMM (unweighted)  approach is used to report PIKE trends in the MIKE report: <i>Monitoring the Illegal Killing of Elephants (MIKE) PIKE trend analysis 2003-2021</i>, released by the CITES Secretariat in June 2022.  <a href="https://cites.org/sites/default/files/MIKE/E-PIKE_Trend_Analysis_Aug2021x.pdf">Click here to see the report.</a> 
+
+The code to generate the MIKE report is included in this Git Hub repostiory. 
 
 # MIKE - GLMM  (unweighted) Model for PIKE
 
@@ -67,7 +69,7 @@ posterior samples from the continental or subregional fits. You likely will NOT 
 
 *README.md* file updated to include additional introductory text, and hyperlink to the MIKE report.
 
-Slope analysis now uses updated code to cover all of the analyses in MIKE report.
+Slope analysis code is extended to cover all of the analyses in MIKE report.
 
 
 #        
