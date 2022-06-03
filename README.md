@@ -41,8 +41,8 @@ There are several directories in this repository
 
 - Code. This contains the .Rmd files and associated functions for fitting and analysing the MIKE data.
 The key documents are the 
-  * Africa.technical.update-2021.Rmd
-  * Asia.technical.update-2021.Rmd
+  * Africa.technical.update-2022.Rmd
+  * Asia.technical.update-2022.Rmd
 files.   
 These load the 
   * *fitting-functions-R* files that contain functions for the analysis
@@ -57,7 +57,7 @@ available. The steps for the Africa reports are given below; the steps for Asia 
 
 - Update the files in the *Data* directory.
 - Update the *read.africa.R* file in the *Code* directory to point to the new file names.
-- Open and knit the *Africa.technical.update-2021.Rmd* documents to create the html/pdf documents.
+- Open and knit the *Africa.technical.update-2022.Rmd* documents to create the html/pdf documents.
 This will take two runs, one for the *html* file and one for the *pdf* file.
 - Put the date of creation in the front of the created html/pdf files and move to the *ReportAndEstimates* directory.
 - Put the date of creation in the front of the created *report.africa.estimates.csv* file and
