@@ -1,7 +1,7 @@
 
 <p> <img src="images/UNCiteslogo.png" width="10%" height="100%" style="display: block; margin: auto auto auto 0;" align="top"/> <img src="images/MIKELogo.png" width="25%" height="100%" style="display: block; margin: auto auto auto 0;" align="botom"/>   </p>
 
-# MIKE-GLMM 2022 (***UNDER CONSTRUCTION May 2022)*** (unweighted model)
+# MIKE-GLMM 2022 *** (unweighted model)
 PIKE TREND ANALYSIS USING A BAYESIAN GENERALISED LINEAR MIXED MODEL APPROACH IN R
 
 CITES MIKE Programme
@@ -33,7 +33,7 @@ where the subscripts *sy*  refer to site and year respectively. PIKE is an index
 
 This GitHub repository contains code and reports on using a Generalized Linear Mixed Model (GLMM-unweighted) to estimate yearly-trends in PIKE.
 
-# Structure of this repository (UNDER CONSTRUCTION)
+# Structure of this repository
 You will have to insert your google key in the *register_google_key.R* file so that
 the programs can download maps of Africa and Asia. <br> See ?register_google after loading the ggmap package.
 
